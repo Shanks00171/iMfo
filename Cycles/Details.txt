@@ -1,0 +1,28 @@
+1. BMX - In Grand Theft Auto V, the BMX has almost the same design from GTA San Andreas but looks even smaller. This version only has one brake on the right handlebar and does not feature a bell. The BMX comes in a variety of colors for the frame, with a secondary color that seems to be non-existent (usually set to black, except for one set with white)
+
+Despite the bicycle's description stating it has pegs, the in-game model does not feature any.
+2. Cruiser - The bike is modeled after the Beach Cruiser bike style, which was popular in the 1930s.
+
+Built primarily for the rider's comfort, the bike features a large seat, inverted handlebars, wheel fenders and a sturdy frame. The Cruiser's bell is unique, different than the other bike's ones. There is also a chain guard for the rider.
+
+The Cruiser spawns with a two-tone color, with the primary one on the main frame and the secondary one on the chain guard (always set to a gray color).
+
+3. Endurex Race Bike - The Endurex Race Bike is based on the original Whippet Race Bike, bearing the same lightweight frame, inverted handlebars and wheels.
+
+The Endurex Race Bike features a white and red livery, bearing the "ENDURÉX" markings on the down tube, "ex1" and "Carbon Design" on the seat tube, along with a text on the top tube reading "ride long & hard". Its wheels are painted in black with red stripes, along with "3-way shafts" markings on it.
+
+4. Fixter - The Fixter is a sports bicycle that appears to be customized by civilians and shares some of its design traits with the race bikes available in the game (Whippet Race Bike, Endurex Race Bike and Tri-Cycles Race Bike), except that it has no designated markings and a more basic frame. Its wheels are also less sportier than the aforementioned tribikes.
+
+The Fixter comes in a wide variety of color schemes, with the secondary one applied to the outer portions of the wheels.
+
+5. Scorcher - The Scorcher is designed as a high-performance offroad bicycle, fitted with front shocks, disc brakes, and a sturdy frame. It resembles the real-life Saracen Zen but with a slacker head-angle of around 65° and a slightly beefier head tube junction. The forks look very similar to real-life Rockshox Domain 180mm with its nickel-plated steel stanchions, albeit with a squared-off bridge similar to that of the Marzocchi 66 and the Fox 36 Float 180. The hydraulic disk brakes are similar to the real life Shimano XTR with their four-spoked disk rotors and the tyres possess a tread pattern and volume similar to the 2.7 inch version of the Maxxis High Roller. The drivetrain is likely a 2x1 setup, as seen by the drivetrain visible in-game. This is strange for a competitive mountain bike, as race bikes often posses around 8 to 12 rear cogs and one front chainring. In addition, the bike has no shifting paddles on its handlebars, and only features brake levers. This means that the smaller front chainring and the derailleur are completely useless, as there would be no other way to change gears other than manually lifting and placing the chain into place by hand. This is likely a development oversight.
+
+The Scorcher is available with a primary color for the frame and a secondary color for the front forks. Various "Scorcher" markings can be seen on the frame and the wheels.
+
+6. Tri-Cycle Race Bike - The Tri-Cycles Race Bike is based on the original Whippet Race Bike, bearing the same lightweight frame, inverted handlebars and wheels.
+
+The Tri-Cycles Race Bike features a white and blue livery, bearing the "TRI-CYCLES" marking on the down tube. It features road wheels with a blue scheme and black/white stripes, with "Torpedo" and "RZ" markings on it.
+
+7. Whippet Race Bike - The Whippet Race Bike is designed as a traditional race bike, but has various elements from many real life models. The front forks are similar to the Pinarello Dogma Series race bikes, while the curved down tube is an altered version of a Tour Grade Starline R12. The curved seat and top tube appears to be borrowed from a De Rosa SK 8050, and the chain stays look similar to a Focus Izalco Race bike. The drivetrain is likely a 2x1 setup, as seen by the drivetrain visible in-game. This is strange for a competitive mountain bike, as race bikes often posses around 8 to 12 rear cogs and one front chainring. In addition, the bike has no shifting paddles on its handlebars, and only features brake levers. This means that the smaller front chainring and the derailleur are completely useless, as there would be no other way to change gears other than manually lifting and placing the chain into place by hand. This is likely a development oversight.
+
+The Whippet Race Bike features a white and yellow livery, bearing the "WHIPPET" markings on the down tube. Its wheels are painted in black with white stripes, along with "K9 Speed" markings on it.
